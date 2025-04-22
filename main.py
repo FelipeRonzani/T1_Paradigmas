@@ -1,3 +1,4 @@
+# Trabalho realizado por Felipe Ronzani e Matheus Santos Chaves
 import re # Módulo de expressões regulares usado para validar o formato do número
 
 class NumeroPorExtenso:
